@@ -1,0 +1,48 @@
+10:38:48.012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipseworkspace-2\OpencartV121\grid-docker.xml
+
+10:43:43.925 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:43:44.303 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:43:57.671 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:43:57.676 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+10:44:00.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:44:00.973 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:47:18.380 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipseworkspace-2\OpencartV121\grid-docker.xml"
+10:47:18.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipseworkspace-2\OpencartV121\grid-docker.xml
+
+10:49:47.620 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+10:49:48.866 [main] INFO  testCases.TC002_LoginTest - ****Opening Login Page..... ***
+10:49:51.307 [main] INFO  testCases.TC002_LoginTest - *** Tring to Login.....***
+10:49:51.383 [main] INFO  testCases.TC002_LoginTest - *** Successfully Logged in and Now in My Account Page ***
+10:49:51.383 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+10:53:03.907 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:53:04.296 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+10:53:11.174 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+10:53:11.199 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+10:53:15.099 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:53:15.216 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:55:50.914 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipseworkspace-2\OpencartV121\grid-docker.xml"
+10:55:51.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipseworkspace-2\OpencartV121\grid-docker.xml
+
+11:27:26.847 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+11:27:28.613 [main] INFO  testCases.TC002_LoginTest - ****Opening Login Page..... ***
+11:27:30.952 [main] INFO  testCases.TC002_LoginTest - *** Tring to Login.....***
+11:27:31.032 [main] INFO  testCases.TC002_LoginTest - *** Successfully Logged in and Now in My Account Page ***
+11:27:31.035 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+17:01:22.831 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipseworkspace-2\OpencartV121\master.xml"
+17:01:23.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipseworkspace-2\OpencartV121\master.xml
+
+17:08:50.278 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+17:08:50.615 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:08:59.326 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:08:59.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:09:03.541 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:09:03.610 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:17:28.421 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+17:17:29.175 [main] INFO  testCases.TC002_LoginTest - ****Opening Login Page..... ***
+17:17:29.824 [main] INFO  testCases.TC002_LoginTest - *** Tring to Login.....***
+17:17:31.510 [main] INFO  testCases.TC002_LoginTest - *** Successfully Logged in and Now in My Account Page ***
+17:17:31.510 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
